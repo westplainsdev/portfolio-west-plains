@@ -9,3 +9,5 @@ author: You
 # Next Generation Technology
 
 What could be more exciting than experiencing some new technology?
+
+So let's go take a look at some new technology!
