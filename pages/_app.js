@@ -2,6 +2,7 @@ import 'nextra-theme-blog/style.css'
 import Head from 'next/head'
 
 import '../styles/main.css'
+import HeaderTitle from '../comps/HeaderTitle'
 
 export default function Nextra({ Component, pageProps }) {
   return (
@@ -21,6 +22,7 @@ export default function Nextra({ Component, pageProps }) {
           crossOrigin="anonymous"
         />
       </Head>
+      <HeaderTitle />
       <Component {...pageProps} />
     </>
   )

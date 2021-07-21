@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Raleway:wght@100;200;400&display=swap');
+
+.center { 
+    margin-left:50%;
+    transform: translate(-50%,0);
+    width: 90%; font-size: 250%; 
+    padding: 5px;
+    background-color: #00264d;
+    color: #cccccc;
+}
+
+h1.title { 
+    padding-bottom: 8px; 
+    font-variation-settings: 'wght' 100 !important;
+}
+
+.firstWord {
+    font-family: 'Raleway', sans-serif; 
+    font-weight: 400
+}
+
+.secondWord {
+    font-family: 'Raleway', sans-serif; 
+    font-weight: 600
+}
+
+.logo {
+    color: #ffffff;
+    display: inline;
+    margin-left: 15px;
+    margin-right: 15px;
+}
